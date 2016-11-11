@@ -126,7 +126,6 @@ AUDIO_FEATURE_ENABLED_FM             := true
 TARGET_HW_DISK_ENCRYPTION            := true
 
 # Build our own PowerHAL
-TARGET_POWERHAL_VARIANT              := qcom
 TARGET_POWERHAL_SET_INTERACTIVE_EXT  := $(LOCAL_PATH)/power/power_fortuna3g_ext.c
 
 # Vold
